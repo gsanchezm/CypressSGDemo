@@ -14,5 +14,5 @@ When(`I login as following`, (datatable)=>{
 })
 
 Then(`I should see my username {string}`, (username) =>{
-    cy.contains(username)
+    cy.contains(username) //
 })

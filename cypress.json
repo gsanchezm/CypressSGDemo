@@ -1,0 +1,13 @@
+{
+  "video": true,
+  "screenshotsFolder": "cypress/videos",
+  "baseUrl": "https://shop.demoqa.com/my-account/",
+  "env": {
+    "username": "gsanchez"
+  },
+  "projectId": "34pycv",
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "configFile": "cypress/reporterOptions.json"
+  }
+}

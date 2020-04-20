@@ -1,9 +1,10 @@
 {
   "video": true,
   "screenshotsFolder": "cypress/videos",
-  "baseUrl": "https://shop.demoqa.com/my-account/",
+  "baseUrl": "https://shop.demoqa.com/",
   "env": {
-    "username": "gsanchez"
+    "username": "gsanchez",
+    "password": "sgv1rtual.123"
   },
   "projectId": "34pycv",
   "reporter": "cypress-multi-reporters",

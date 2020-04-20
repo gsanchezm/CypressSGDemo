@@ -7,7 +7,7 @@ export class LoginPage{
     }
 
     clickLoginButton(){
-        cy.xpath("//button[@name='login']").click()
+        cy.xpath("//button[@name='login']").click() 
     }
 }
 
